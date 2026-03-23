@@ -1,3 +1,20 @@
+# RoadOS
+
+> AI Agent Operating System — AIOS
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — 18 orgs, 20 domains, 200 agents.
+
+Forked from [`agiresearch/AIOS`](https://github.com/agiresearch/AIOS) and enhanced for the BlackRoad sovereign stack.
+
+| | |
+|---|---|
+| **Language** | Python |
+| **Organization** | [BlackRoad-Forge](https://github.com/BlackRoad-Forge) |
+| **License** | See upstream |
+| **Homepage** | [blackroad.io](https://blackroad.io) |
+
+---
+
 # AIOS: AI Agent Operating System
 
 <a href='https://arxiv.org/abs/2403.16971'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
